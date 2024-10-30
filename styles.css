@@ -1,0 +1,394 @@
+#maxab
+{
+	margin: 20px 20px 20px 0px;
+}
+#maxab a
+{
+	text-decoration: none;
+}
+#maxab .clear
+{
+	clear: both;
+}
+#maxab .status
+{
+	text-transform: capitalize;
+}
+#maxab h2.tabs
+{
+	border-bottom: solid 1px #cccccc;
+}
+#maxab h2.tabs .spacer
+{
+	padding-right: 20px;
+}
+#maxab .actions
+{
+	padding: 5px 0px 20px 0px;
+}
+#maxab .actions a
+{
+	margin-right: 10px;
+}
+#maxab table.experiments-table
+{
+	border: solid 1px #cccccc;
+}
+#maxab td.alt-background
+{
+	background-color: #f1f1f1;
+}
+#maxab td.green
+{
+	color: #188f11;
+}
+#maxab td.red
+{
+	color: #cf1919;
+}
+#maxab td.column-header
+{
+	font-weight: bold;
+	padding: 5px 20px 5px 20px;
+	background-color: #e1e1e1;
+}
+#maxab td.column-header-left
+{
+	font-weight: bold;
+	padding: 5px 20px 5px 5px;
+	background-color: #e1e1e1;
+}
+#maxab td.column-header-right
+{
+	font-weight: bold;
+	padding: 5px 20px 5px 20px;
+	background-color: #e1e1e1;
+}
+#maxab td.column-data-none-found
+{
+	padding: 5px;
+	border-top: solid 1px #cccccc;
+	border-left: solid 1px #cccccc;
+	border-right: solid 1px #cccccc;
+}
+#maxab td.column-data
+{
+	padding: 5px 20px 5px 20px;
+	border-top: solid 1px #cccccc;
+}
+#maxab td.column-data-left
+{
+	padding: 5px 20px 5px 5px;
+	border-top: solid 1px #cccccc;
+}
+#maxab td.column-data-right
+{
+	padding: 5px 20px 5px 20px;
+	border-top: solid 1px #cccccc;
+}
+#maxab form input[type='text']
+{
+	padding: 5px;
+	width: 300px;
+	margin: 0px;
+}
+#maxab form input[type='text'].short
+{
+	width: 60px;
+}
+#maxab form input[type='radio']
+{
+	margin: 10px 5px 10px 5px;
+}
+#maxab form p
+{
+	padding-bottom: 10px;
+}
+#maxab form select
+{
+	width: 300px;
+	font-size: 12px;
+	margin: 0px;
+}
+#maxab form span
+{
+	color: #808080;
+	font-size: 11px;
+	font-style: italic;
+	padding-left: 5px;
+}
+#maxab form .buttons
+{
+	margin-top: 20px;
+}
+#maxab form .button-primary
+{
+	margin-right: 10px;
+}
+#maxab form .group
+{
+	margin-bottom: 15px;
+}
+#maxab form .label
+{
+	padding-left: 5px;
+	font-weight: bold;
+}
+#maxab .conversion-tracking textarea
+{
+	width: 600px;
+}
+#maxab input.error, #maxab textarea.error, #maxab select.error
+{
+	border-color: #c4204a !important;
+	background-color: #ffffff;
+	margin: 0px;
+}
+#maxab label.error
+{
+	color: #c4204a;
+	font-style: italic;
+	background-color: #f9f9f9;
+	border: none;
+	margin: 0px;
+	padding: 0px;
+}
+#maxab #unique-pages-required
+{
+	display: none;
+	border: solid 1px #c4204a;
+	background-color: #ff9f9f;
+	margin: 20px 0px 20px 0px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+#maxab .details .compare
+{
+	margin-top: 5px;
+}
+#maxab .details .compare table
+{
+	border: solid 1px #cccccc;
+}
+#maxab .details .compare td.section-header
+{
+	font-weight: bold;
+	font-family: Georgia;
+	font-style: italic;
+	padding: 5px 20px 5px 10px;
+	background-color: #f1f1f1;
+	border-top: solid 1px #cccccc;
+}
+#maxab .details .compare td.details-header
+{
+	font-weight: bold;
+	padding: 5px 20px 5px 20px;
+	background-color: #e1e1e1;
+}
+#maxab .details .compare td.details-label
+{
+	background-color: #ffffff;
+	padding: 5px 20px 5px 10px;
+	border-top: solid 1px #cccccc;
+}
+#maxab .details .compare td.details-value
+{
+	background-color: #ffffff;
+	padding: 11px 40px 11px 40px;
+	border-top: solid 1px #cccccc;
+	font-size: 18px;
+}
+#maxab .details h3
+{
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0px 0px 10px 0px;
+}
+#maxab .details .info
+{
+	margin-bottom: 15px;
+}
+#maxab .details .info .label
+{
+	float: left;
+	width: 170px;
+	padding-bottom: 5px;
+}
+#maxab .details .info .value
+{
+	float: left;
+	padding-bottom: 5px;
+}
+#maxab .details .info .value-total-visitors
+{
+	float: left;
+	padding-bottom: 5px;
+	font-size: 18px;
+}
+#maxab .faq-metrics table
+{
+	border-top: solid 1px #cccccc;
+	border-left: solid 1px #cccccc;
+	border-right: solid 1px #cccccc;
+}
+#maxab .faq-metrics td.metric-name
+{
+	font-weight: bold;
+	width: 200px;
+	padding: 10px;
+	border-right: solid 1px #cccccc;
+	border-bottom: solid 1px #cccccc;
+}
+#maxab .faq-metrics td.metric-definition
+{
+	width: 550px;
+	padding: 10px;
+	border-bottom: solid 1px #cccccc;
+	background-color: #ffffff;
+}
+#delete-experiment-modal
+{
+	display: none;
+}
+#delete-experiment-modal p
+{
+	padding: 0px 10px 0px 10px;
+}
+#delete-experiment-modal .button-group
+{
+	padding-top: 10px;
+}
+#delete-experiment-modal .button-group span
+{
+	padding: 10px;
+}
+#delete-experiment-modal .title
+{
+	font-size: 18px;
+	padding: 10px;
+	border-bottom: solid 1px #b1b1b1;
+	background-color: #e1e1e1;
+	margin: 0px;
+}
+#edit-experiment-modal
+{
+	display: none;
+}
+#edit-experiment-modal input[type='radio']
+{
+	margin: 10px 5px 10px 15px;
+}
+#edit-experiment-modal input[type='text']
+{
+	padding: 5px;
+	width: 300px;
+	margin: 0px 0px 0px 10px;
+}
+#edit-experiment-modal input[type='text'].short
+{
+	width: 60px;
+	margin: 0px;
+}
+#edit-experiment-modal input[type='text'].error
+{
+	border-color: #c4204a !important;
+	background-color: #ffffff;
+	margin: 0px;
+}
+#edit-experiment-modal label.error
+{
+	color: #c4204a;
+	font-style: italic;
+	background-color: #f9f9f9;
+	border: none;
+	margin: 0px;
+	padding: 0px;
+}
+#edit-experiment-modal select
+{
+	width: 100px;
+	font-size: 12px;
+	margin: 0px 0px 0px 10px;
+}
+#edit-experiment-modal .button-group
+{
+	margin-top: 20px;
+}
+#edit-experiment-modal .button-group span
+{
+	padding: 0px 10px 0px 15px;
+}
+#edit-experiment-modal .input-group
+{
+	margin-bottom: 10px;
+}
+#edit-experiment-modal .label
+{
+	padding: 10px 0px 0px 15px;
+}
+#edit-experiment-modal .radio-group
+{
+	margin-bottom: 15px;
+}
+#edit-experiment-modal .title
+{
+	font-size: 18px;
+	padding: 10px;
+	border-bottom: solid 1px #b1b1b1;
+	background-color: #e1e1e1;
+	margin: 0px;
+}
+#tracking-script-modal
+{
+	display: none;
+}
+#tracking-script-modal p
+{
+	padding: 0px 10px 0px 10px;
+}
+#tracking-script-modal textarea
+{
+	width: 500px;
+	margin-left: 10px;
+}
+#tracking-script-modal .button-group
+{
+	padding: 10px;
+}
+#tracking-script-modal .title
+{
+	font-size: 18px;
+	padding: 10px;
+	border-bottom: solid 1px #b1b1b1;
+	background-color: #e1e1e1;
+	margin: 0px;
+}
+#simplemodal-container
+{
+	background-color: #f1f1f1;
+	border: solid 3px #333333;
+	padding: 0px;
+}
+#simplemodal-container a.modalCloseImg
+{
+	background: url('images/x.png') no-repeat;
+	width: 25px;
+	height: 29px;
+	display: inline;
+	z-index: 3200;
+	position: absolute;
+	top: -15px;
+	right: -16px;
+	cursor: pointer;
+}
+#simplemodal-container #delete-experiment-modal, #simplemodal-container #edit-experiment-modal, #simplemodal-container #tracking-script-modal
+{
+	padding: 0px;
+}
+#simplemodal-overlay
+{
+	background-color: #000000;
+	cursor: wait;
+}
